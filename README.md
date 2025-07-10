@@ -1,1 +1,2 @@
 # Python-Project
+Leveraging strong programming skills, I have utilized Python to perform web scraping on open-source data from Wikipedia. This involved extracting and structuring unstructured web content into usable datasets, demonstrating my ability to acquire data from diverse online sources and prepare it for subsequent analysis and insight generation. This experience further highlights my practical application of Python for data acquisition and preparation in real-world scenarios.
